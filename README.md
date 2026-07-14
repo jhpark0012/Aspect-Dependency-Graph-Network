@@ -4,6 +4,7 @@
 ___
 
 ## News
+[26.07.10] Our paper is now available on IEEE Xplore and is currently in production.
 
 [26.05.05] Our code is released!
 
@@ -105,4 +106,4 @@ Results are saved to:
 
 ## Citation
 
-1st round revision
+In initial production stage with IEEE Publishing Operations
