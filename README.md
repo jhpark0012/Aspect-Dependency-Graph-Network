@@ -4,7 +4,7 @@
 ___
 
 ## News
-[26.07.10] Our paper is now available on IEEE Xplore and is currently in production.
+[26.07.10] Our paper is now available on IEEE Xplore and is currently in production. (https://ieeexplore.ieee.org/document/11603434)
 
 [26.05.05] Our code is released!
 
