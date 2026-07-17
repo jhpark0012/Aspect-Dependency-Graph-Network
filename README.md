@@ -6,7 +6,7 @@ ___
 ## News
 [26.07.10] Our paper is now available on IEEE Xplore and is currently in production. (https://ieeexplore.ieee.org/document/11603434)
 
-[26.06.30] Our paper is accepted on IEEE Transactions on Affective Computing(2025 IF: 11.3(Q1), 2025 Rank: 1/34, 18/210)
+[26.06.30] Our paper is accepted on IEEE Transactions on Affective Computing!
 
 [26.05.05] Our code is released!
 
