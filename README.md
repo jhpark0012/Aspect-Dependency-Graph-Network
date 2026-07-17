@@ -106,4 +106,4 @@ Results are saved to:
 
 ## Citation
 
-In initial production stage with IEEE Publishing Operations
+In final production stage with IEEE Publishing Operations
